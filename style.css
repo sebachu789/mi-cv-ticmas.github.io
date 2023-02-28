@@ -1,0 +1,39 @@
+html {
+    font-size: 20px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura. */
+    font-family: "Oswald", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts. */
+    background-color: #7C7573; /* color fondo de pagina. */
+     }
+    .titulo { 
+              color: rgb(0, 0, 0); 
+              font-size: 60px;
+              text-align: center;
+              padding: 20px 0;
+              margin: 0;
+    }
+    body {
+        width: 600px;
+        margin: 0 auto;
+        background-color: #ADD8E6;
+        padding: 0 20px 20px 20px;
+        border: 3px solid black;
+        border-radius: 40px;
+    
+        
+    }
+        img {           
+            float: right;
+            width: 148px;
+            height: 148px;
+         
+    }
+        #email{
+            font-family: "Oswald", sans-serif;
+            color: black;
+        }
+
+        #cuerpo {
+            float: left;
+        }
+        #boton_1 {
+            float: right;
+        }
